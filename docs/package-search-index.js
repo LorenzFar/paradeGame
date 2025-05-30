@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.paradegame"},{"l":"com.paradegame.ai"},{"l":"com.paradegame.controller"},{"l":"com.paradegame.model"},{"l":"com.paradegame.util"},{"l":"com.paradegame.view"}];updateSearchResults();

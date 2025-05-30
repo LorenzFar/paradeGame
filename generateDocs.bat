@@ -1,0 +1,1 @@
+javadoc -d docs src/com/paradegame/ai/* src/com/paradegame/controller/* src/com/paradegame/model/* src/com/paradegame/util/* src/com/paradegame/view/* src/com/paradegame/ParadeGame.java
