@@ -1,8 +1,8 @@
-#🎉ParadeGame
+## ParadeGame
 A personal recreation of the classic *Parade* card game — entirely playable in your terminal using Java.
 
-##📌Introduction  
-Hi there! I'm excited to present **ParadeGame**, a solo project where I reimagined the Parade card game as a terminal-based Java application. Whether you're a fan of strategy card games or just love terminal-based games, this one is for you!
+## Introduction  
+Hi there! I'm excited to present **ParadeGame**, a simple solo project where I reimagined the Parade card game as a terminal-based Java application. Whether you're a fan of strategy card games or just love terminal-based games, this one is for you!
 
 ## Installation
 Simply download a zip of the repository and extract it to a suitable location on your computer.
